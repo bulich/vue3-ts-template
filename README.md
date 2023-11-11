@@ -51,4 +51,3 @@ npm run lint
 ```sh
 npm run type-check
 ```
-# vue3-ts-template
